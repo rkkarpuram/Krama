@@ -2,8 +2,8 @@
   "minimum_supported_version": 1,
   "system_status": "ACTIVE",
   "feature_toggles": {
-    "enable_explore_image_share": true,
-    "enable_experiment_image_generation": true
+    "enable_explore_image_share": false,
+    "enable_experiment_image_generation": false
   },
   "testers": [
     {
@@ -12,18 +12,13 @@
       "allow_access": true
     },
     {
-      "email": "jasonu1712@gmail.com",
+      "email": "shashank050602@gmail.com",
       "token": "3456",
       "allow_access": true
     },
     {
       "email": "kburagad@gmail.com",
       "token": "1179",
-      "allow_access": true
-    },
-    {
-      "email": "sandycruise@gmail.com",
-      "token": "1269",
       "allow_access": true
     }
   ]
